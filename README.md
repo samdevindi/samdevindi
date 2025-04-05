@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maleesha Devindi</h1>
 <h3 align="center">A passionate UI/UX Designer from Sri Lanka.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samdevindi&label=Profile%20views&color=0e75b6&style=flat" alt="samdevindi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=samdevindi&label=Profile%20views&color=0e75b6&style=flat" alt="samdevindi" /> </p>
 
 - 🌱 I’m currently learning **Management Information Systems (special) degree**
 
